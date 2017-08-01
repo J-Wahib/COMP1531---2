@@ -11,7 +11,7 @@ def fizzbuzz ():
 	        print("Fizz")
         elif n%5 == 0:
 	        print("Buzz")
-        
+      
         else:
 	        print(n)
         
